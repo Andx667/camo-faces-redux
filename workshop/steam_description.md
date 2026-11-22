@@ -49,12 +49,12 @@ Every layer of camo plays a short painting animation that other players see. The
 
 Camo Faces Redux is fully open-source. Bug reports, feature requests, and contributions are all welcome.
 
-[GitHub Repository](https://github.com/Andx667/Camo_Faces_Redux)  
-[Report an Issue](https://github.com/Andx667/Camo_Faces_Redux/issues)  
-[Documentation](https://andx667.github.io/Camo_Faces_Redux/)  
+[GitHub Repository](https://github.com/Andx667/camo-faces-redux)  
+[Report an Issue](https://github.com/Andx667/camo-faces-redux/issues)  
+[Documentation](https://andx667.github.io/camo-faces-redux/)  
 [Discord](https://discord.gg/ag4v6kxYAa)
 
-Licensed under [APL-ND](https://github.com/Andx667/Camo_Faces_Redux/blob/main/LICENSE).
+Licensed under [APL-ND](https://github.com/Andx667/camo-faces-redux/blob/main/LICENSE).
 
 ---
 

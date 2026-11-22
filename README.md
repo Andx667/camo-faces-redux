@@ -1,22 +1,22 @@
 # Camo Faces Redux
 
 <p align="center">
-    <img src="https://github.com/Andx667/Camo_Faces_Redux/blob/main/img/logo.png" alt="Camo Faces Redux Logo">
+    <img src="https://github.com/Andx667/camo-faces-redux/blob/main/img/logo.png" alt="Camo Faces Redux Logo">
 </p>
 
 <p align="center">
-    <a href="https://github.com/Andx667/Camo_Faces_Redux/issues">
-        <img src="https://img.shields.io/github/issues-raw/Andx667/Camo_Faces_Redux.svg?style=flat-square&label=Issues" alt="Camo Faces Redux Issues">
+    <a href="https://github.com/Andx667/camo-faces-redux/issues">
+        <img src="https://img.shields.io/github/issues-raw/Andx667/camo-faces-redux.svg?style=flat-square&label=Issues" alt="Camo Faces Redux Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3799682446">
         <img src="https://img.shields.io/steam/downloads/3799682446.svg?style=flat-square&label=Downloads" alt="Camo Faces Redux Downloads">
     </a>
-    <a href="https://github.com/Andx667/Camo_Faces_Redux/blob/main/LICENSE">
+    <a href="https://github.com/Andx667/camo-faces-redux/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL ND-red?style=flat-square" alt="Camo Faces Redux License">
     </a>
     <br>
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/Camo_Faces_Redux/check.yml?style=flat-square&label=Check" alt="Check">
-    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/Camo_Faces_Redux/validate.yml?style=flat-square&label=Validate" alt="Validate">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/camo-faces-redux/check.yml?style=flat-square&label=Check" alt="Check">
+    <img src="https://img.shields.io/github/actions/workflow/status/Andx667/camo-faces-redux/validate.yml?style=flat-square&label=Validate" alt="Validate">
 </p>
 
 __Requires__ [CBA_A3](https://github.com/CBATeam/CBA_A3) and [ACE3](https://github.com/acemod/ACE3).
@@ -27,7 +27,7 @@ The project is entirely __open-source__ and any contributions are welcome.
 
 Steam Workshop: <https://steamcommunity.com/sharedfiles/filedetails/?id=3799682446>  
 Discord: <https://discord.gg/ag4v6kxYAa>  
-Docs: <https://andx667.github.io/Camo_Faces_Redux/>
+Docs: <https://andx667.github.io/camo-faces-redux/>
 
 ## Features
 
