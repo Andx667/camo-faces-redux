@@ -1,9 +1,9 @@
-# Camo Faces Redux (Camo_Faces_Redux)
+# Camo Faces Redux (camo-faces-redux)
 
 Arma 3 mod built on CBA and ACE, packaged with HEMTT. It runs inside large modsets next to other mods and must load cleanly beside them; other mods and missions should be able to build on it.
 
 - **Prefix**: `cfr` (globals `cfr_<component>_*`, classnames `cfr_*`)
-- **Docs**: `docs/` (MkDocs, published to <https://andx667.github.io/Camo_Faces_Redux/>)
+- **Docs**: `docs/` (MkDocs, published to <https://andx667.github.io/camo-faces-redux/>)
 - **Hard dependencies**: CBA_A3, ACE3 (optional: ZEN via `compat_zen`)
 
 ## Guiding principles

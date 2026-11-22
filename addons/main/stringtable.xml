@@ -23,25 +23,25 @@
             <Latin>Camo Faces Redux</Latin>
         </Key>
         <Key ID="STR_CFR_Main_url">
-            <English>https://github.com/Andx667/Camo_Faces_Redux</English>
-            <Czech>https://github.com/Andx667/Camo_Faces_Redux</Czech>
-            <French>https://github.com/Andx667/Camo_Faces_Redux</French>
-            <Spanish>https://github.com/Andx667/Camo_Faces_Redux</Spanish>
-            <Italian>https://github.com/Andx667/Camo_Faces_Redux</Italian>
-            <Polish>https://github.com/Andx667/Camo_Faces_Redux</Polish>
-            <Portuguese>https://github.com/Andx667/Camo_Faces_Redux</Portuguese>
-            <Russian>https://github.com/Andx667/Camo_Faces_Redux</Russian>
-            <German>https://github.com/Andx667/Camo_Faces_Redux</German>
-            <Korean>https://github.com/Andx667/Camo_Faces_Redux</Korean>
-            <Japanese>https://github.com/Andx667/Camo_Faces_Redux</Japanese>
-            <Chinese>https://github.com/Andx667/Camo_Faces_Redux</Chinese>
-            <Chinesesimp>https://github.com/Andx667/Camo_Faces_Redux</Chinesesimp>
-            <Turkish>https://github.com/Andx667/Camo_Faces_Redux</Turkish>
-            <Slovak>https://github.com/Andx667/Camo_Faces_Redux</Slovak>
-            <Hungarian>https://github.com/Andx667/Camo_Faces_Redux</Hungarian>
-            <Ukrainian>https://github.com/Andx667/Camo_Faces_Redux</Ukrainian>
-            <Bulgarian>https://github.com/Andx667/Camo_Faces_Redux</Bulgarian>
-            <Latin>https://github.com/Andx667/Camo_Faces_Redux</Latin>
+            <English>https://github.com/Andx667/camo-faces-redux</English>
+            <Czech>https://github.com/Andx667/camo-faces-redux</Czech>
+            <French>https://github.com/Andx667/camo-faces-redux</French>
+            <Spanish>https://github.com/Andx667/camo-faces-redux</Spanish>
+            <Italian>https://github.com/Andx667/camo-faces-redux</Italian>
+            <Polish>https://github.com/Andx667/camo-faces-redux</Polish>
+            <Portuguese>https://github.com/Andx667/camo-faces-redux</Portuguese>
+            <Russian>https://github.com/Andx667/camo-faces-redux</Russian>
+            <German>https://github.com/Andx667/camo-faces-redux</German>
+            <Korean>https://github.com/Andx667/camo-faces-redux</Korean>
+            <Japanese>https://github.com/Andx667/camo-faces-redux</Japanese>
+            <Chinese>https://github.com/Andx667/camo-faces-redux</Chinese>
+            <Chinesesimp>https://github.com/Andx667/camo-faces-redux</Chinesesimp>
+            <Turkish>https://github.com/Andx667/camo-faces-redux</Turkish>
+            <Slovak>https://github.com/Andx667/camo-faces-redux</Slovak>
+            <Hungarian>https://github.com/Andx667/camo-faces-redux</Hungarian>
+            <Ukrainian>https://github.com/Andx667/camo-faces-redux</Ukrainian>
+            <Bulgarian>https://github.com/Andx667/camo-faces-redux</Bulgarian>
+            <Latin>https://github.com/Andx667/camo-faces-redux</Latin>
         </Key>
     </Package>
 </Project>
